@@ -15,7 +15,7 @@ end
 
 def long_planeteer_calls(planeteer_calls)
   planeteer_calls.each do |element|
-    char_val = element.size > 4
+    char_val == element.size > 4
     
     
   end
